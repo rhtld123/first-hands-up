@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: first-hands-up
+
+  data:
+    redis:
+      host: localhost
+      port: 6379
